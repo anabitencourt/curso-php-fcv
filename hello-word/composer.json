@@ -1,0 +1,6 @@
+{
+    "name": "anabitencourt/helloword",
+    "type": "library",
+    "minimum-stability": "dev",
+    "require": {}
+}
